@@ -3,7 +3,7 @@
 Code authored by Seth Allen Cazzell
 cazzell.lbi@gmail.com
 
-For detailed explaination, please see
+For detailed explanation, please see
 "Expanding the stoichiometric window for metal cross-linked gel assembly using competition" PNAS, Cazzell (2019)
 and reference accordingly.
 
@@ -17,9 +17,9 @@ There are 4 total functions, described below.
 
 04 - simulates the plateau modulus as a function of metal crosslinker concentration and pH for a metal coordinated network as the function of the binding strength of competitor OH for crosslinker M. Used to generate Figure 1C.
 
-Each function acts independently , only the director for the specific function you want to use should be added to your active path.
+Each function acts independently, only the director for the specific function you want to use should be added to your active path.
 
-Each function include a data collection structure tree, which is a set of empty folder in the folder "Model".
+Each function includes a data collection structure tree, which is a set of empty folders in the folder "Model".
 
 Each function has a main script. This is the file where various parameters and options can be edited to tell the program what parameters to run.
 
